@@ -69,7 +69,7 @@ Fique à vontade para entrar em contato para discussões, colaborações ou apen
 
 <div align="center">
    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge" alt="Spring Boot Badge" height="35">
-   <img src="  https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="35">
+   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="35">
 </div>
 
 ###
