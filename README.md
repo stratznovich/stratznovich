@@ -78,10 +78,11 @@ Fique à vontade para entrar em contato para discussões, colaborações ou apen
 <div align="center">
 <a href="https://github.com/stratznovich">
  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" alt="GitHub Badge" height="35"/>
+</a>
  <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge" alt="Discord Badge" title="stratznovich" height="35"/>
  <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" alt="Gmail Badge" title="juniorsouzaprod@gmail.com" height="35"/>
 
-</a>
+
 
 
 </div>
